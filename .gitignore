@@ -10,7 +10,7 @@
 
 # production
 /build
-
+/src/abis/*.json
 # misc
 .DS_Store
 .env
